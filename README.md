@@ -47,7 +47,7 @@
   </a>
 </p>
 
-<h3 align="left">Design:</h3>
+<h3 align="left">Design tool:</h3>
 <p align="left">
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/>
