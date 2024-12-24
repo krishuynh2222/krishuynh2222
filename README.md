@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ngan Huynh</h1>
-<h3 align="center">I am a junior student with the goal of becoming a software engineer.</h3>
+<h3 align="center">I am a junior student with the goal of becoming a fullstack engineer.</h3>
 
 <h3 align="left">Frontend:</h3>
 <p align="left">
