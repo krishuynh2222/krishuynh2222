@@ -1,21 +1,39 @@
-<h1 align="center">Hi 👋, I'm Ngan Huynh</h1>
-<h3 align="center">I am a junior student with the goal of becoming a data engineer.</h3>
+<h1 align="center">Hi there 👋, I'm Ngan Huynh</h1>
+<h3 align="center">🎓 Junior Computer Science student at New Jersey City University</h3>
 
-<p> 🤓 I’m currently learning Data Engineering</p>
+---
+## 💡 About Me
 
-<h3>Languages and Tools:</h3>
+I'm a passionate and curious student exploring the world of **data**.  
+My goal is to become a **Data Engineer** — someone who builds data pipelines, transforms raw data into insights, and enables teams to make informed decisions.
+
+Currently, I'm learning and building projects with:
+
+- 🐍 **Python** for scripting and data processing
+- 🛢️ **SQL** for querying and managing structured data
+- 🔄 **ETL pipelines** to move and transform data
+- 🧱 **Data modeling** to design efficient storage
+- 🏛️ **Data warehouse** architecture for scalable analytics  
+- 📊 **Tableau** for data visualization and storytelling  
+- ☁️ Exploring **cloud platforms** like AWS
+---
+## 🔧 Languages and Tools
    <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a> 
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a> 
-   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a> 
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+     <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="tableau" width="40" height="40"/>
+   </a>
+
    
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -33,8 +51,15 @@
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="git" width="40" height="40"/>
   </a>
-  
-
    <a href="" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="canva" width="40" height="40"/>
   </a>
+
+---
+## 📫 How to Reach Me
+
+- ✉️ Email: krishuynh2222@gmail.com 
+- 💼 LinkedIn: www.linkedin.com/in/krishuynh2222
+- 🖥 GitHub: https://krishuynh2222.github.io/NganHuynh.github.io/
+- Thanks for checking out my profile! I’m excited to keep growing in the world of data 🚀
+
