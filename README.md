@@ -15,7 +15,7 @@ Currently, I'm learning and building projects with:
 - 🧱 **Data modeling** to design efficient storage
 - 🏛️ **Data warehouse** architecture for scalable analytics  
 - 📊 **Tableau** for data visualization and storytelling  
-- ☁️ Exploring **cloud platforms** like AWS
+
 ---
 ## 🔧 Languages and Tools
    <a href="https://www.python.org" target="_blank" rel="noreferrer">
