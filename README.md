@@ -5,16 +5,6 @@
 ## 💡 About Me
 
 I'm a passionate and curious student exploring the world of **data**.  
-My goal is to become a **Data Engineer** — someone who builds data pipelines, transforms raw data into insights, and enables teams to make informed decisions.
-
-Currently, I'm learning and building projects with:
-
-- 🐍 **Python** for scripting and data processing
-- 🛢️ **SQL** for querying and managing structured data
-- 🔄 **ETL pipelines** to move and transform data
-- 🧱 **Data modeling** to design efficient storage
-- 🏛️ **Data warehouse** architecture for scalable analytics  
-- 📊 **Tableau** for data visualization and storytelling  
 
 ---
 ## 🔧 Languages and Tools
