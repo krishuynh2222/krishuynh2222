@@ -4,7 +4,7 @@
 ---
 ## 💡 About Me
 
-I'm a passionate and curious student exploring the world of **data**.  
+I'm a passionate and curious student exploring the world of **data-software**.  
 
 ---
 ## 🔧 Languages and Tools
