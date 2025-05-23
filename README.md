@@ -4,8 +4,7 @@
 ---
 ## 💡 About Me
 
-I'm a passionate and curious student exploring the world of **data & software**.  
-My goal is to become a **Data Engineer** — someone who builds data pipelines, transforms raw data into insights, and enables teams to make informed decisions.
+I'm a passionate and curious student exploring the world of **data**.  
 
 Currently, I'm learning and building projects with:
 
