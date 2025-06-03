@@ -11,10 +11,11 @@ Currently, I'm learning and building projects with:
 - 🐍 **Python** for scripting and data processing
 - 🛢️ **SQL** for querying and managing structured data
 - 📈 Excel for data analysis, pivot tables, and automation with formulas/macros
+- 📊 **Tableau** for data visualization and storytelling  
 - 🔄 **ETL pipelines** to move and transform data
 - 🧱 **Data modeling** to design efficient storage
 - 🏛️ **Data warehouse** architecture for scalable analytics  
-- 📊 **Tableau** for data visualization and storytelling  
+
 
 ---
 ## 🔧 Languages and Tools
