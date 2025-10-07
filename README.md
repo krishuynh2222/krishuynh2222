@@ -8,7 +8,7 @@ I'm a passionate and curious student exploring the world of **data**.
 
 Currently, I'm learning and building projects with:
 
-- 🐍 **Python** for scripting and data processing
+- 🐍 **Python** for scripting and data processing and **machine learning** prediction
 - 🛢️ **SQL** for querying and managing structured data
 - 📈 Excel for data analysis, pivot tables, and automation with formulas/macros
 - 📊 **Tableau** for data visualization and storytelling  
