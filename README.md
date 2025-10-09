@@ -61,6 +61,6 @@ Currently, I'm learning and building projects with:
 
 - ✉️ Email: krishuynh2222@gmail.com 
 - 💼 LinkedIn: www.linkedin.com/in/krishuynh2222
-- 🖥 GitHub: 
+- 🖥 GitHub: https://krishuynh2222.github.io/
 - Thanks for checking out my profile! I’m excited to keep growing in the world of data 🚀
 
