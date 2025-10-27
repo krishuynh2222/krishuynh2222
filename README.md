@@ -10,7 +10,7 @@ Currently, I'm learning and building projects with:
 
 - 🐍 **Python** for scripting and data processing and **machine learning** prediction
 - 🛢️ **SQL** for querying and managing structured data
-- 📈 Excel for data analysis, pivot tables, and automation with formulas/macros
+- 📈 **Excel** for data analysis, pivot tables, and automation with formulas/macros
 - 📊 **Tableau** for data visualization and storytelling  
 - 🔄 **ETL pipelines** to move and transform data
 - 🧱 **Data modeling** to design efficient storage
