@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Ngan Huynh</h1>
+<h1 align="center">Hi there 👋, I'm Kris Huynh</h1>
 <h3 align="center">🎓 Seinor Computer Science student at New Jersey City University</h3>
 
 ---
