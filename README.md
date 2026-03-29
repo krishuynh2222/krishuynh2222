@@ -4,7 +4,7 @@
 ---
 ## 💡 About Me
 
-I'm a passionate and curious student exploring the world of **data**.  
+I'm a passionate and curious student exploring the world of **data & AI**.  
 
 Currently, I'm learning and building projects with:
 
@@ -14,7 +14,8 @@ Currently, I'm learning and building projects with:
 - 📊 **Tableau** for data visualization and storytelling  
 - 🔄 **ETL pipelines** to move and transform data
 - 🧱 **Data modeling** to design efficient storage
-- 🏛️ **Data warehouse** architecture for scalable analytics  
+- 🏛️ **Data warehouse** architecture for scalable analytics
+- **AI Automation** 
 
 
 ---
